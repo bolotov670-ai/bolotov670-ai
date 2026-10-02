@@ -1,27 +1,109 @@
-# 💫 About Me:
-🎓 Студент  |  💻 Начинающий программист<br><br>👨‍💻 Обо мне:<br>🎓 Учусь в колледже<br>💻 Начинающий программист, постоянно развиваюсь и стремлюсь к большему<br>🚀 Есть амбиции вырасти в сильного разработчика<br>🎮 В свободное время играю в Apex, Valorant и другие игры<br>📚 Сейчас изучаю программирование и прокачиваю свои навыки<br>🎭Играю. театре "Странствующая улитка"<br>📸Профю фоторгаф 3-его разряда
+<div align="center">
 
+# Hello, I'm Sencha :)
 
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/bobrdobr___/about) 
+### 💻 Student • Developer • AI Enthusiast
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bolotov670-ai&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bolotov670-ai&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bolotov670-ai&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="./IMG_1579.JPG" width="100%" alt="The Boys">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bolotov670-ai&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bolotov670-ai&limit=5&theme=merko&combine_all_yearly_contributions=true)
+# 💫 About Me
+
+🎓 **Студент колледжа**  
+💻 **Начинающий разработчик**, постоянно развиваюсь и изучаю новые технологии  
+🚀 Стремлюсь вырасти в сильного Full Stack & AI Developer  
+📚 Сейчас активно изучаю программирование и прокачиваю свои навыки  
+🎮 В свободное время играю в **Apex Legends, Valorant** и другие игры  
+🎭 Играю в театре **«Странствующая улитка»**  
+📸 Профессиональный фотограф **3-го разряда**
 
 ---
-[![](https://komarev.com/ghpvc/?username=bolotov670-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Socials
+
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bobrdobr___/about)
+
+---
+
+# 💻 Tech Stack
+
+### Programming & Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+### Backend & Databases
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Design & Creative
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=bolotov670-ai&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=bolotov670-ai&theme=dark&hide_border=true">
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bolotov670-ai&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bolotov670-ai&theme=merko&no-frame=true&no-bg=true&margin-w=4">
+
+</div>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
+
+</div>
+
+---
+
+# 🔝 Top Contributed Repo
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=bolotov670-ai&limit=5&theme=merko&combine_all_yearly_contributions=true">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bolotov670-ai&icon=0&color=0">
+
+</div>
