@@ -2,9 +2,9 @@
 
 # Hello, I'm Sencha :)
 
-### 💻 Student • Developer • AI Enthusiast
+<img src="./sencha_tal_1960_chess_banner.gif" width="100%" alt="Botvinnik vs Tal — 1960">
 
-<img src="./IMG_1579.JPG" width="100%" alt="The Boys">
+</div>
 
 </div>
 
