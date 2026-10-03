@@ -1,10 +1,20 @@
 <div align="center">
 
-# Hello, I'm Sencha :)
-
-<img src="./sencha_tal_1960_chess_banner_smoother.gif" width="100%" alt="Botvinnik vs Tal — 1960">
+<img src="./profile-banner.png" width="100%" alt="Sencha — шахматы и разработка">
 
 </div>
+
+<br>
+
+## ♟ Шахматы
+
+<div align="center">
+
+<img src="./sencha_tal_1960_chess_banner_smoother.gif" width="100%" alt="Ботвинник — Таль, 1960">
+
+</div>
+
+## ✨ Обо мне
 
 <br>
 
