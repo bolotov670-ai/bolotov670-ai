@@ -2,7 +2,7 @@
 
 # Hello, I'm Sencha :)
 
-<img src="./sencha_tal_1960_chess_banner.gif" width="100%" alt="Botvinnik vs Tal — 1960">
+<img src="./sencha_tal_1960_chess_banner_smoother.gif" width="100%" alt="Botvinnik vs Tal — 1960">
 
 </div>
 
